@@ -1,5 +1,0 @@
-Number      Check 	Result
-1	Create account            
-2	Authorization
-3	Put in Bag
-4	Buy
